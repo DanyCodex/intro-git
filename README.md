@@ -1,3 +1,3 @@
-#Curso de _Git_&_Github
+#Curso de Git & Github
 
-Este es mi primer push 
+Esta es mi introducción al mundo de la programación
